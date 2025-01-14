@@ -78,7 +78,7 @@ a {
   gap: 12px;
   background: #1C1A1C;
   cursor: pointer;
-  transition: all 450ms ease-in-out;
+  transition: all 200ms ease-in-out;
 }
 
 .sparkle {
